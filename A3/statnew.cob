@@ -2,7 +2,6 @@
 *>     File:  statnew.cob
 *>     29.03.2021
 *>     Name:   zeynep Erdogru
-*>     Student ID: 1047085
 *>     Email: zerdogru@uoguelph.ca
 *>     CIS*3190 Software for legacy systems - Assignment 3
 *>     @author Zeynep

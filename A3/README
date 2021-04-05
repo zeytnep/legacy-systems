@@ -1,0 +1,8 @@
+
+A3: DATA STATISTICS
+
+Stats calculator in cobol.
+Program prompt user for a input and output file name, reads the input file, calculates the statistics and writes the data into output file. 
+
+To compile and run type >make
+

@@ -1,6 +1,6 @@
 -- hangman.adb 
 -- Hangman game in ada for CIS*3190 - Assignment 2
--- @author Zeynep Erdogru (zerdogru) student ID#1047085
+-- @author Zeynep Erdogru
 
 --Assumptions:
 -- No uper case letters allowed

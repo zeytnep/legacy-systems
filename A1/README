@@ -1,0 +1,14 @@
+A1: FireDanger Fortran
+
+FORTRAN DANGER(), is used to calculate the National Fire Danger Rating Index.
+The program is given in the form of a Fortran subroutine, which takes the following as input:
+
+• dry-bulb and wet-bulb readings
+• a yes-no decision regarding snow on the ground • the preceding 24-hour precipitation
+• the current windspeed
+• yesterday’s build-up index
+• the current herbaceous stage of vegetation
+
+How to compile and run:
+1/ To compile type > gfortran -Wall firedanger.f95
+2/ To run type >./a.out

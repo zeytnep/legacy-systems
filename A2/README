@@ -1,0 +1,24 @@
+A2: Hangman Game in Ada : A word is chosen and the player is invited to guess the word one letter at a time.
+
+When the program is run, it picks a word, tells the player how many letters are in the word, and allows the player to guess a letter in the word. If correct, the program places the letter. If the player’s letter is wrong, it begins to hang the stick person. The player is allowed 10 guesses before the stick person is completely hanged:
+
+    head
+    body
+    right and left arms
+    right and left legs 
+    right and left hands 
+    right and left feet
+
+A version of hangman using a program would prompt the user by displaying correct guesses in position after each round of guessing. For the first round an underscore character for each letter in the word is displayed. For example, suppose that the computer chooses the word “bench”, from the dictionary. The computer would display five dash(-) characters:
+
+        -----
+
+The player then guesses a character that they think is in the word. In the above example, any of the characters b, e, n, c, and h would be correct guesses as they appear in the word bench. When a correct character is guessed, this character is displayed in all the positions it appears in the word. If, for example, the player guessed the letter e, then the letter e would be displayed in position 2:
+
+        -e---
+
+If an incorrect guess is made the player is informed and the game increments the number of incorrect guesses. As the game progresses, the player gradually guesses more characters that appear in the word. The game ends when either all the characters in the word are guessed and the word is revealed (in this case the player wins), or a specified, maximum number of incorrect guesses are reached (the player loses).
+
+How to compile and run
+1/ To compile type >make
+2/ To run type >./hangman
