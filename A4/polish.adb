@@ -2,7 +2,6 @@
 -- CIS*3190 A4 - REVERSE POLISH in Ada
 -- @author Zeynep Erdogru
 -- 05.04.2021
--- Student ID#1047085
 -- Email zerdogru@uoguelph.ca
 --Assumptions
 --No spaces are allowed inputting an expression. example/ 'A/   B/  C' is not allowed
