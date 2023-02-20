@@ -235,7 +235,4 @@
            write out-line from quadratic-line after advancing 1 line.
            write out-line from harmonicMean-line after advancing 1 line.
            write out-line from median-line after advancing 1 line.
-
-*> Lines 192 - 203 are inspired from Michael Wirth's bubble sort algorithm
 *> Citation: https://craftofcoding.wordpress.com/2021/03/23/coding-cobol-a-bubblesort/
-*> Bubble sort algorithm, used for finding median written by Michael Wirth
